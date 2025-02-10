@@ -28,10 +28,10 @@ A simple CRUD application built with **Spring Boot**, **PostgreSQL**, and **Reac
 ![Home Page](images/home.png)
 
 ### Create-User Page  
-![Create-User Page](images/addcustomer.png)
+![Create-User Page](images/createuser.png)
 
 ### Update-User Page  
-![Update-User Page](images/updatecustomer.png)
+![Update-User Page](images/updateuser.png)
 
 ## Technologies Used
 
