@@ -37,7 +37,7 @@ services:
     build:
       context: frontend/react-app
       args:
-        api_base_url: http://localhost:8081
+        REACT_APP_API_BASE_URL: http://localhost:8081
     ports:
       - "3001:3000"
     depends_on:
